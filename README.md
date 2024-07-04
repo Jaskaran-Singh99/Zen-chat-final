@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# ZEN CHAT
 
-Talk-a-tive is a Full Stack Chatting App.
+Zen chat is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -11,24 +11,11 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
   
-## Demo
-
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
-```
+Download the project
 
 Go to the project directory
-
-```bash
-  cd mern-chat-app
-```
 
 Install dependencies
 
@@ -58,24 +45,30 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+LOGIN
+![image](https://github.com/Jaskaran-Singh99/Zen-chat-final/assets/86151494/50aa54ae-cc3a-45bc-9202-ed783754d456)
+
+SIGN UP
+![image](https://github.com/Jaskaran-Singh99/Zen-chat-final/assets/86151494/9a3428fc-8209-4116-9b46-7379b1f19a42)
+
+
+
+### Real Time Chatting 
+![image](https://github.com/Jaskaran-Singh99/Zen-chat-final/assets/86151494/e452fdf9-83e9-498e-9dc1-86559721335c)
+
+
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![image](https://github.com/Jaskaran-Singh99/Zen-chat-final/assets/86151494/4530ae3f-23df-4fc2-a036-57fb7b294619)
+
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![image](https://github.com/Jaskaran-Singh99/Zen-chat-final/assets/86151494/b8f4ba60-a61e-408b-b9dc-da391aef3514)
+
 ### Notifications 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+### View  user Profile
+![image](https://github.com/Jaskaran-Singh99/Zen-chat-final/assets/86151494/dbe08b31-9f8d-48c6-9f63-ce664d056297)
+
+
 
   
