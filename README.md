@@ -63,8 +63,6 @@ SIGN UP
 ### Create Group Chats
 ![image](https://github.com/Jaskaran-Singh99/Zen-chat-final/assets/86151494/b8f4ba60-a61e-408b-b9dc-da391aef3514)
 
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 
 ### View  user Profile
 ![image](https://github.com/Jaskaran-Singh99/Zen-chat-final/assets/86151494/dbe08b31-9f8d-48c6-9f63-ce664d056297)
