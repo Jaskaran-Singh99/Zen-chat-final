@@ -25,7 +25,7 @@ Install dependencies
 
 ```bash
   cd frontend/
-  npm install
+  npm install --force
 ```
 
 Start the server
